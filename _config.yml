@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: ブログのタイトル
 description: 説明
+markdown: kramdown
+permalink: pretty
